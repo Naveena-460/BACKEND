@@ -2,7 +2,7 @@ package com.index;
 
 import java.util.Scanner;
 
-public class ass1_odd {
+public class Ass1_odd {
 
 	public static void main(String[] args) {
 		System.out.println("Enter the number:");
@@ -21,3 +21,4 @@ public class ass1_odd {
 	}
 
 }
+
