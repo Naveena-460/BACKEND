@@ -2,7 +2,7 @@ package com.index;
 
 import java.util.Scanner;
 
-public class ass1_user {
+public class Ass1_user {
 
     public static void main(String[] args) {
 
@@ -23,3 +23,4 @@ public class ass1_user {
         
     }
 }
+
