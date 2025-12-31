@@ -1,6 +1,6 @@
 package com.index;
 import java.util.Scanner;
-public class ass1_pass {
+public class Ass1_pass {
 
 	public static void main(String[] args) {
 		
@@ -17,3 +17,4 @@ public class ass1_pass {
 	}
 
 }
+
