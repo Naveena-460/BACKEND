@@ -2,7 +2,7 @@ package com.index;
 
 import java.util.Scanner;
 
-public class ass2_password {
+public class Ass2_password {
 
     public static void main(String[] args) {
 
@@ -22,3 +22,4 @@ public class ass2_password {
 
     }
 }
+
