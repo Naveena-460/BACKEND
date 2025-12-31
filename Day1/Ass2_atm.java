@@ -1,7 +1,7 @@
 package com.index;
 import java.util.Scanner;
 
-public class ass2_atm {
+public class Ass2_atm {
 
     public static void main(String[] args) {
 
@@ -18,3 +18,4 @@ public class ass2_atm {
        
     }
 }
+
