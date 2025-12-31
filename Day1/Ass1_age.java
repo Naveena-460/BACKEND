@@ -2,7 +2,7 @@ package com.index;
 
 import java.util.Scanner;
 
-public class ass1_age {
+public class Ass1_age {
 
 	public static void main(String[] args) {
 		Scanner obj = new Scanner(System.in);
@@ -26,3 +26,4 @@ public class ass1_age {
 	}
 
 }
+
