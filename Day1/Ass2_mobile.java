@@ -1,6 +1,6 @@
 package com.index;
 import java.util.Scanner;
-public class ass2_mobile {
+public class Ass2_mobile {
 
     public static void main(String[] args) {
 
@@ -17,3 +17,4 @@ public class ass2_mobile {
       
     }
 }
+
