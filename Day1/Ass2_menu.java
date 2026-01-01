@@ -1,35 +1,4 @@
-<<<<<<< HEAD
-package com.index;
-import java.util.Scanner;
-public class ass2_menu {
 
-    public static void main(String[] args) {
-
-        Scanner obj = new Scanner(System.in);
-        int choice;
-
-        do {
-            System.out.println("1. Add");
-            System.out.println("2. Sub");
-            System.out.println("3. Exit");
-            System.out.print("Enter choice: ");
-
-            choice = obj.nextInt();
-
-            if (choice == 1) {
-                System.out.println("Addition selected");
-            } 
-            else if (choice == 2) {
-                System.out.println("Subtraction selected");
-            }
-
-        } while (choice != 3);
-
-        System.out.println("Program exited");
-
-    }
-}
-=======
 package com.index;
 import java.util.Scanner;
 public class Ass2_menu {
@@ -61,4 +30,4 @@ public class Ass2_menu {
     }
 }
 
->>>>>>> 4e2be59ddc9ddbcc1590be240181a41b3a00f57a
+
